@@ -61,8 +61,6 @@ Kaggle [https://www.kaggle.com/code/buketkalfa/g-i-proje-bk]
 - Modelin eğitim ve test sonuçları değerlendirilmiştir.
 - Manipüle edilmiş ve renk sabitliği uygulanmış test setleri ile modelin performansı karşılaştırılmıştır.
 
-## Katkıda Bulunanlar
-- Diclehan ve Oğuzhan Ulucan
 
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
