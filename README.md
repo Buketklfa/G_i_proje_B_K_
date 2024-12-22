@@ -3,7 +3,7 @@
 
 Bu proje, çeşitli hayvan türlerini sınıflandırmak için bir Convolutional Neural Network (CNN) modeli oluşturmayı amaçlamaktadır. Proje, Aygaz Görüntü İşleme Bootcamp kapsamında gerçekleştirilmiştir.
 
-Kaggle [https://www.kaggle.com/code/buketkalfa/g-i-proje-bk]
+[Kaggle Notebook "g-i-proje-bk" linki]https://www.kaggle.com/code/buketkalfa/g-i-proje-bk
 
 ## Proje Adımları
 
