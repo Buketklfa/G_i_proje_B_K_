@@ -26,10 +26,10 @@ Bu proje, çeşitli hayvan türlerini sınıflandırmak için bir Convolutional 
 - Model, test verisiyle test edilmiştir.
 - Modelin başarısı (accuracy) değerlendirilmiştir.
 
-### 5. Resimlerin Farklı Işıklar ile Manipüle Edilmesi
-- Test resimleri farklı ışık koşulları ile manipüle edilmiştir.
+### 5. Tekrar eğitilmesi ve test edilmesi 
 
-### 6. Modelin Manipüle Edilmiş Test Seti ile Denenmesi
+### 6. Resimlerin Farklı Işıklar ile Manipüle Edilmesi ve Denenmesi
+- Test resimleri farklı ışık koşulları ile manipüle edilmiştir.
 - Model, manipüle edilmiş test seti ile test edilmiştir.
 - Başarı oranı kaydedilmiştir.
 
@@ -61,4 +61,4 @@ Bu proje, çeşitli hayvan türlerini sınıflandırmak için bir Convolutional 
 
 
 ## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır.
+Bu proje  Apache 2.0  Lisansı altında lisanslanmıştır.
