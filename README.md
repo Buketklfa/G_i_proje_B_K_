@@ -33,14 +33,12 @@ Bu proje, çeşitli hayvan türlerini sınıflandırmak için bir Convolutional 
 - Model, manipüle edilmiş test seti ile test edilmiştir.
 - Başarı oranı kaydedilmiştir.
 
-### 7. Manipüle Edilmiş Test Setine Renk Sabitliği Algoritması Uygulanması
+### 7. Manipüle Edilmiş Test Setine Renk Sabitliği Algoritması Uygulanması ve Denenmesi
 - Manipüle edilmiş test setine renk sabitliği algoritması uygulanmıştır.
-
-### 8. Modelin Renk Sabitliği Uygulanmış Test Seti ile Denenmesi
 - Model, renk sabitliği uygulanmış test seti ile test edilmiştir.
 - Başarı oranı kaydedilmiştir.
 
-### 9. Farklı Test Setlerinin Başarılarını Karşılaştırma ve Raporlama
+### 8. Farklı Test Setlerinin Başarılarını Karşılaştırma ve Raporlama
 - Üç farklı test setinin başarıları karşılaştırılarak raporlanmıştır.
 - Çözüm önerileri sunulmuştur.
 
